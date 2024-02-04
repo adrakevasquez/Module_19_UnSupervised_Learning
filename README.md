@@ -1,5 +1,10 @@
 # Module_19_UnSupervised_Learning
 
+![elbow_plots](https://github.com/adrakevasquez/Module_19_UnSupervised_Learning/assets/131911413/1ab82070-9fe6-4914-9ad5-8c464319dd5d)
+
+![predictive_clusters](https://github.com/adrakevasquez/Module_19_UnSupervised_Learning/assets/131911413/44e79f0b-0007-4ef0-bc20-17a8b140b6a8)
+
+
 Prepare the Data
 Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
 
@@ -51,3 +56,4 @@ Create a scatter plot using hvPlot as follows:
 Set the x-axis as "price_change_percentage_24h" and the y-axis as "price_change_percentage_7d".
 Color the graph points with the labels found using K-means.
 Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
+
